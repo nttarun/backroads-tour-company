@@ -43,7 +43,6 @@
 <br/>
 <br/>
 <br/>
-<h2>contact form and gallery</h2>
 
 <br/>
 <br/>
@@ -52,7 +51,7 @@
 ![](https://github.com/nttarun/backroads-tour-company/blob/main/screenshots/picture5.png)
 
 
-<h2>gallery</h2>
+<h2>contact form and gallery</h2>
 <br/>
 <br/>
 <br/>
