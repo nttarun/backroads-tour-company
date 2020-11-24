@@ -33,7 +33,6 @@ Services
 <br/>
 <br/>
 
-contact form and gallery
 <br/>
 <br/>
 <br/>
@@ -44,7 +43,7 @@ contact form and gallery
 <br/>
 <br/>
 <br/>
-gallery
+contact form and gallery
 
 <br/>
 <br/>
@@ -53,13 +52,14 @@ gallery
 ![](https://github.com/nttarun/backroads-tour-company/blob/main/screenshots/picture5.png)
 
 
-footer
+gallery
 <br/>
 <br/>
 <br/>
 
 ![](https://github.com/nttarun/backroads-tour-company/blob/main/screenshots/picture6.png)
 
+footer
 <br/>
 <br/>
 <br/>
