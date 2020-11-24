@@ -1,6 +1,6 @@
 # backroads-tour-company
 
-Main page
+<h2>Main page</h2>
 <br/>
 <br/>
 <br/>
