@@ -1,3 +1,3 @@
 # backroads-tour-company
 
-![](https://github.com/nttarun/backroads-tour-company/tree/main/screenshots/picture1.png)
+![](https://github.com/nttarun/backroads-tour-company/blob/main/screenshots/picture1.png)
