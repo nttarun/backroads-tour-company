@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-About company
+<h2>About company</h2>
 
 <br/>
 <br/>
@@ -22,7 +22,7 @@ About company
 <br/>
 <br/>
 
-Services
+<h2>Services</h2>
 
 <br/>
 <br/>
@@ -43,7 +43,7 @@ Services
 <br/>
 <br/>
 <br/>
-contact form and gallery
+<h2>contact form and gallery</h2>
 
 <br/>
 <br/>
@@ -52,14 +52,14 @@ contact form and gallery
 ![](https://github.com/nttarun/backroads-tour-company/blob/main/screenshots/picture5.png)
 
 
-gallery
+<h2>gallery</h2>
 <br/>
 <br/>
 <br/>
 
 ![](https://github.com/nttarun/backroads-tour-company/blob/main/screenshots/picture6.png)
 
-footer
+<h2>footer</h2>
 <br/>
 <br/>
 <br/>
